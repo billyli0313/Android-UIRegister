@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UIRegister</string>
+    <array name="countries">
+        <item>Norway</item>
+        <item>China</item>
+        <item>Germany</item>
+        <item>Italy</item>
+        <item>Spain</item>
+        <item>America</item>
+    </array>
+</resources>
